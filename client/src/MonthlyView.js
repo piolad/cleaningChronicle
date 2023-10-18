@@ -1,61 +1,15 @@
-import TaskElement from "./TaskElement"
-import AddTaskButton from "./AddTaskButton"
-import './MonthlyView.css'
+import DailyView from "./DailyView"
+
+
 
 function MonthlyView(){
 
-    var kitchenTasks = [ 
-        <TaskElement cleaner={"Mokrzyk"} task={"Mycie mikrofalówki"}></TaskElement>,
-        <TaskElement cleaner={"Paweł"} task={"Zjedzenie ziemniaka"}></TaskElement>
-    ]
-
-    var bathroomTasks = [
-        <TaskElement cleaner={"Piotrek"} task={"Umycie dupska"}></TaskElement>
-    ]
-
-    var wcTasks = []
-    var corridorTasks = []
-    var livingroomTasks = []
-    var otherTasks = []
-    
     return(
-    <div className='view'>
-          {/* example view */}
-          <h2>01/10</h2>
-          <div class="container">
-            <div class="kitchen">
-              <h3>Kuchnia</h3>
-              {kitchenTasks}
-              <AddTaskButton></AddTaskButton>
-            </div>
-            <div class="bathroom">
-              <h3>Łazienka</h3>
-              {bathroomTasks}
-              <AddTaskButton></AddTaskButton>
-            </div>
-            <div class="wc">
-              <h3>Kibelson</h3>
-              {wcTasks}
-              <AddTaskButton></AddTaskButton>
-            </div>
-            <div class="corridor">
-              <h3>Korytarz</h3>
-              {corridorTasks}
-              <AddTaskButton></AddTaskButton>
-            </div>
-            <div class="livingroom">
-              <h3>Salon</h3>
-              {livingroomTasks}
-              <AddTaskButton></AddTaskButton>
-            </div>
-            <div class="other">
-              <h3>Inne</h3>
-              {otherTasks}
-              <AddTaskButton></AddTaskButton>
-            </div>
-          </div>
-    </div>
+        <div>
+            <DailyView/>
+            <DailyView/>
+        </div>
     )
 }
 
-export default MonthlyView
+export default MonthlyView;

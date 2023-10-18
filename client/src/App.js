@@ -6,15 +6,18 @@ import MonthlyView from './MonthlyView'
 
 function App() {
   
+  // usestate to store the current month
+  const [month, setMonth] = useState(new Date().getMonth())
+
   return (
     <div>
       <button className='loginButton'>LOGIN</button>
       <h1>Cleaning Chronicles - Wittiga 4</h1>
 
-      <MonthSelector></MonthSelector>
+      <MonthSelector month={month} setMonth={setMonth}></MonthSelector>
 
       <div>
-        <MonthlyView></MonthlyView>
+        <MonthlyView ></MonthlyView>
       </div>
     </div>
   )
