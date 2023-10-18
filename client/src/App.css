@@ -1,52 +1,48 @@
-.view {
-  background-color: rgb(178, 179, 180);
-  width: 100%;
+/*import roboto */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+
+
+body{
+  /* Add a nice background gradient */
+  background: linear-gradient(90deg, rgb(134, 128, 248) 0%, rgb(145, 145, 235) 35%, rgb(74, 219, 248) 100%);
+  /* Make the background cover the whole page */
+  background-size: cover;
+  
+  margin: 0px;
+  padding: 0px;
 }
 
-.view > h2 {
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
   color: white;
-
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
 }
 
+/* login button */
+.loginButton{
+  position:absolute;
+  right: 0;
 
-.container { 
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: 0px 6px;
-  grid-auto-flow: row;
-  grid-template-areas:
-    "kitchen bathroom wc corridor livingroom other"
-    "kitchen bathroom wc corridor livingroom other"
-    "kitchen bathroom wc corridor livingroom other";
-}
-
-.kitchen { grid-area: kitchen; }
-.bathroom { grid-area: bathroom; }
-.wc { grid-area: wc; }
-.corridor { grid-area: corridor; }
-.livingroom { grid-area: livingroom; }
-.other { grid-area: other; }
-
-
-.container > * > div {
-  background-color: rgba(0,0,0,0.1);
-  border-radius: 5px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: white;
+  background-color: rgba(252, 51, 208, 0.514);
+  border: none;
+  border-radius: 1.3rem;
   padding: 0.5rem;
+  
+  margin-right: 1rem;
 
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  cursor: pointer;
 
-  margin-bottom: 4px;
-
-}
-.container > * > h3 {
-  font-size: 1.2rem;
-  margin-top: 0.2rem;
-  margin-bottom: 0.2rem;
-
-  display: flex;
-  justify-content: center;
+  float: right;
 }

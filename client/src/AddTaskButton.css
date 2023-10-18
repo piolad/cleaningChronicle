@@ -1,0 +1,20 @@
+.AddTaskButton > p {
+  
+    font-size: 2rem;
+    font-weight: 1000;
+    
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+  
+    display: flex;
+    justify-content: center;
+}
+.AddTaskButton {
+    padding: 0px;
+    height: 0.4rem;
+}
+
+.AddTaskButton:hover {
+    background-color: #8b8b8b;
+    cursor: pointer;
+}

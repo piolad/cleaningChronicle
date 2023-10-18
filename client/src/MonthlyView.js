@@ -1,4 +1,5 @@
 import TaskElement from "./TaskElement"
+import AddTaskButton from "./AddTaskButton"
 import './MonthlyView.css'
 
 function MonthlyView(){
@@ -25,26 +26,32 @@ function MonthlyView(){
             <div class="kitchen">
               <h3>Kuchnia</h3>
               {kitchenTasks}
+              <AddTaskButton></AddTaskButton>
             </div>
             <div class="bathroom">
               <h3>Łazienka</h3>
               {bathroomTasks}
+              <AddTaskButton></AddTaskButton>
             </div>
             <div class="wc">
               <h3>Kibelson</h3>
               {wcTasks}
+              <AddTaskButton></AddTaskButton>
             </div>
             <div class="corridor">
-              <h3>Korytatz</h3>
+              <h3>Korytarz</h3>
               {corridorTasks}
+              <AddTaskButton></AddTaskButton>
             </div>
             <div class="livingroom">
               <h3>Salon</h3>
               {livingroomTasks}
+              <AddTaskButton></AddTaskButton>
             </div>
             <div class="other">
               <h3>Inne</h3>
               {otherTasks}
+              <AddTaskButton></AddTaskButton>
             </div>
           </div>
     </div>

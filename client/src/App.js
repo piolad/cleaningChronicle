@@ -8,7 +8,7 @@ function App() {
   
   return (
     <div>
-      <button>LOGIN</button>
+      <button className='loginButton'>LOGIN</button>
       <h1>Cleaning Chronicles - Wittiga 4</h1>
 
       <MonthSelector></MonthSelector>
