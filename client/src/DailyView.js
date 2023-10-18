@@ -2,26 +2,54 @@ import TaskElement from "./TaskElement"
 import AddTaskButton from "./AddTaskButton"
 import './DailyView.css'
 
-function DailyView(){
+function DailyView({cleaningData, date}){
 
-    var kitchenTasks = [ 
-        <TaskElement cleaner={"Mokrzyk"} task={"Mycie mikrofalówki"}></TaskElement>,
-        <TaskElement cleaner={"Paweł"} task={"Zjedzenie ziemniaka"}></TaskElement>
-    ]
-
-    var bathroomTasks = [
-        <TaskElement cleaner={"Piotrek"} task={"Umycie dupska"}></TaskElement>
-    ]
-
+    var kitchenTasks = []
+    var bathroomTasks = []
     var wcTasks = []
     var corridorTasks = []
     var livingroomTasks = []
     var otherTasks = []
     
+    for (const [key, value] of Object.entries(cleaningData)) {
+
+        if(key === "kitchen"){
+            for (const [key, value] of Object.entries(cleaningData.kitchen)) {
+                kitchenTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+            }
+        }
+        if(key === "bathroom"){
+            for (const [key, value] of Object.entries(cleaningData.bathroom)) {
+                bathroomTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+            }
+        }
+        if(key === "wc"){
+            for (const [key, value] of Object.entries(cleaningData.wc)) {
+                wcTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+            }
+        }
+        if(key === "corridor"){
+            for (const [key, value] of Object.entries(cleaningData.corridor)) {
+                corridorTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+            }
+        }
+        if(key === "livingroom"){
+            for (const [key, value] of Object.entries(cleaningData.livingroom)) {
+                livingroomTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+            }
+        }
+        if(key === "other"){
+            for (const [key, value] of Object.entries(cleaningData.other)) {
+                otherTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+            }
+        }
+      }
+
+
     return(
     <div className='dailyView'>
       
-          <h2>01/10</h2>
+          <h2>{date}</h2>
           <div class="container">
             <div class="kitchen">
               <h3>Kuchnia</h3>
