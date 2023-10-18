@@ -18,7 +18,7 @@ function MonthSelector(){
     })
 
     return(
-        <div>
+        <div className='monthSelector'>
             <label>Miesiąc: </label>
             <select>
                 {monthOptions}

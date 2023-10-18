@@ -1,0 +1,25 @@
+.monthSelector{
+    background-color: rgb(180, 202, 224);
+    width: fit-content;
+    padding: 0.6rem;
+    border-radius: 0.3rem;
+    margin-bottom: 0.1rem;
+}
+
+.monthSelector > *{
+    /* center horizontally */
+    margin-right: auto;
+    margin-left: auto;
+    /* center vertically */
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.monthSelector > label{
+    font-size: 1.5rem;
+}
+.monthSelector > select{
+    font-size: 1.0rem;
+    margin-left: 0.5rem;
+
+}
