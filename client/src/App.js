@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import './App.css'
+import MonthSelector from './MonthSelector'
 
 function App() {
 
@@ -8,23 +9,7 @@ function App() {
       <button>LOGIN</button>
       <h1>Cleaning Chronicles - Wittiga 4</h1>
 
-      <div>
-        <label>Miesiąc: </label>
-        <select>
-          <option>Styczeń</option>
-          <option>Luty</option>
-          <option>Marzec</option>
-          <option>Kwiecień</option>
-          <option>Maj</option>
-          <option>Czerwiec</option>
-          <option>Lipiec</option>
-          <option>Sierpień</option>
-          <option>Wrzesień</option>
-          <option selected>Październik</option>
-          <option>Listopad</option>
-          <option>Grudzień</option>
-        </select>
-      </div>
+      <MonthSelector></MonthSelector>
 
       <div>
         {/* list of views */}
