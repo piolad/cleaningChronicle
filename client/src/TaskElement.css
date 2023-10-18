@@ -1,0 +1,13 @@
+.TaskElement > p {
+  
+    /* font-size: 0.rem; */
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+  
+    display: flex;
+    justify-content: center;
+}
+
+.cleaner {
+    font-style: italic;
+}

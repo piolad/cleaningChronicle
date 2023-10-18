@@ -50,12 +50,3 @@
   display: flex;
   justify-content: center;
 }
-.container > * > div > p {
-  
-  /* font-size: 0.rem; */
-  margin-top: 0.2rem;
-  margin-bottom: 0.2rem;
-
-  display: flex;
-  justify-content: center;
-}

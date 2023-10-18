@@ -1,12 +1,12 @@
 import React from 'react';
 import './MonthSelector.css';
 
-function MonthSelector(){
+function MonthSelector(){   
     const date = new Date()
     const currentMonth = date.getMonth()
-
+    
     const months = ['Styczeń', 'Luty', 'Marzec', 'Kwiecień', 'Maj', 'Czerwiec',
-                    'Lipiec', 'Sierpień', 'Wrzesień', 'Październik', 'Listopad', 'Grudzień']
+    'Lipiec', 'Sierpień', 'Wrzesień', 'Październik', 'Listopad', 'Grudzień']
     
     const monthOptions = months.map((month, index) => {
         if(index === currentMonth){
@@ -16,7 +16,7 @@ function MonthSelector(){
             return <option>{month}</option>
         }
     })
-
+    
     return(
         <div className='monthSelector'>
             <label>Miesiąc: </label>
