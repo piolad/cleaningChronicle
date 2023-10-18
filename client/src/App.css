@@ -1,0 +1,60 @@
+.view {
+  background-color: rgb(178, 179, 180);
+  width: 100%;
+}
+
+.view > h2 {
+  color: white;
+
+}
+
+
+.container {  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 6px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "kitchen bathroom wc corridor livingroom other"
+    "kitchen bathroom wc corridor livingroom other"
+    "kitchen bathroom wc corridor livingroom other";
+}
+
+.kitchen { grid-area: kitchen; }
+.bathroom { grid-area: bathroom; }
+.wc { grid-area: wc; }
+.corridor { grid-area: corridor; }
+.livingroom { grid-area: livingroom; }
+.other { grid-area: other; }
+
+
+.container > * > div {
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 5px;
+  padding: 0.5rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 4px;
+
+}
+.container > * > h3 {
+  font-size: 1.2rem;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+
+  display: flex;
+  justify-content: center;
+}
+.container > * > div > p {
+  
+  /* font-size: 0.rem; */
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+
+  display: flex;
+  justify-content: center;
+}
