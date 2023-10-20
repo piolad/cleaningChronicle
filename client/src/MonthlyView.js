@@ -1,9 +1,10 @@
 import DailyView from "./DailyView"
 
-
-
-function MonthlyView(){
-    const data1 =  {
+const data = {
+    "data":
+    [
+    {
+        date: new Date(2021, 9, 1),
         kitchen: [
             {cleaner: "Mokrzyk", task: "Mycie mikrofalówki"},
             {cleaner: "Paweł", task: "Zjedzenie ziemniaka"}
@@ -11,14 +12,9 @@ function MonthlyView(){
         bathroom: [
             {cleaner: "Piotrek", task: "Umycie dupska"}
         ],
-        wc: [],
-        corridor: [],
-        livingroom: [],
-        other: []
-    }
-    var date1 = new Date(2021, 9, 1)
-    var date2 = new Date(2021, 9, 2)
-    const data2 =  {
+    },
+    {
+        date: new Date(2021, 9, 2),
         corridor: [
             {cleaner: "Piotrek", task: "Ścieranie kurzu"},
             {cleaner: "Paweł", task: "Zajęcie się Mamą mokrzyka"}
@@ -26,16 +22,23 @@ function MonthlyView(){
         bathroom: [
             {cleaner: "Piotrek", task: "Umycie dupska"}
         ],
-        wc: [],
-        kitchen: [],
-        livingroom: [],
-        other: []
     }
-    
+
+]
+}
+
+
+function MonthlyView(){
+
+    //iteratively convert data to daily views
+    var dailyViews = []
+    for (const [key, value] of Object.entries(data.data)) {
+        dailyViews.push(<DailyView date={value.date} cleaningData={value}/>)
+    }
+
     return(
         <div>
-            <DailyView date={date1} cleaningData={data1}/>
-            <DailyView date={date2} cleaningData={data2}/>
+            {dailyViews}
         </div>
     )
 }
