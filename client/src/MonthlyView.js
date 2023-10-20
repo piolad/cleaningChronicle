@@ -1,3 +1,4 @@
+import AddTaskButton from "./AddTaskButton"
 import DailyView from "./DailyView"
 
 const data = {
@@ -39,6 +40,9 @@ function MonthlyView(){
     return(
         <div>
             {dailyViews}
+
+        {/*  to consider:
+            <AddTaskButton></AddTaskButton> */}
         </div>
     )
 }
