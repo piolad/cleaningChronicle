@@ -31,6 +31,7 @@ function MonthlyView(){
         livingroom: [],
         other: []
     }
+    
     return(
         <div>
             <DailyView date={date1} cleaningData={data1}/>

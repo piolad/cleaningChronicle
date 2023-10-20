@@ -49,7 +49,7 @@ function DailyView({cleaningData, date}){
     return(
     <div className='dailyView'>
       
-          <h2>{date}</h2>
+          <h2>{(date.getDate()) +'/' + (date.getMonth()+1)}</h2>
           <div class="container">
             <div class="kitchen">
               <h3>Kuchnia</h3>
