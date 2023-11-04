@@ -54,7 +54,7 @@ function DailyView({cleaningData, date}){
             <div class="kitchen">
               <h3>Kuchnia</h3>
               {kitchenTasks}
-              <AddTaskButton></AddTaskButton>
+              <AddTaskButton ></AddTaskButton>
             </div>
             <div class="bathroom">
               <h3>Łazienka</h3>

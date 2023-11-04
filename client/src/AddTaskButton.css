@@ -18,3 +18,7 @@
     background-color: #8b8b8b;
     cursor: pointer;
 }
+
+.CloseModal{
+    float: right;
+}
