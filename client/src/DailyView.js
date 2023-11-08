@@ -10,9 +10,16 @@ function DailyView({cleaningData, date}){
     var corridorTasks = []
     var livingroomTasks = []
     var otherTasks = []
-    
-    for (const [key, value] of Object.entries(cleaningData)) {
 
+    console.log(cleaningData)
+        
+    for (const [key, value] of Object.entries(cleaningData)) {
+    
+    // console.log(value)
+        // console.log(value["roommate"])
+        // console.log(value.activity)
+        // console.log(key)
+        // console.log(value)
         if(key === "kitchen"){
             for (const [key, value] of Object.entries(cleaningData.kitchen)) {
                 kitchenTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)

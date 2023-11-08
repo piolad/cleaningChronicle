@@ -2,6 +2,8 @@ import './TaskElement.css'
 
 function TaskElement({cleaner, task}){
 
+    // console.log(cleaner);
+
     return(
         <div className="TaskElement">
             <p>{task}</p>

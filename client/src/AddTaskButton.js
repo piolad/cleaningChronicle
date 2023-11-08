@@ -24,6 +24,9 @@ function AddTaskButton() {
             <form>
               <label htmlFor="taskName">Task Name:</label>
               <input type="text" id="taskName" name="taskName" />
+              <label htmlFor="roommate">Roommate: </label>
+              <input type="text" id="roommate" name="roommate" />
+
               <button type="submit">Add Task</button>
             </form>
           </div>

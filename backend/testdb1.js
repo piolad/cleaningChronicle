@@ -19,7 +19,8 @@ app.get('/testtable', (req, res) => {
     const dateFrom = req.query.dateFrom || new Date(new Date().getFullYear(), new Date().getMonth(), 1).toISOString().slice(0, 10);
     const dateTo = req.query.dateTo || new Date().toISOString().slice(0, 10);
     
-    db.any('SELECT * FROM "public"."testtable" WHERE date BETWEEN \''+dateFrom+'\' AND \''+dateTo+'\' ORDER BY date ASC LIMIT 1000')
+    //conver date to string
+    db.any('SELECT TO_CHAR(date, \'YYYY-MM-DD\') as DATE_F, * FROM "public"."testtable" WHERE date BETWEEN \''+dateFrom+'\' AND \''+dateTo+'\' ORDER BY date ASC LIMIT 1000')
         .then(data => {
             // res.json(data);
             //fix CORS:
@@ -59,7 +60,7 @@ app.get('/testtable', (req, res) => {
             
             ]
             }
-            res.json(data1);
+            res.json(data);
 
         })
         .catch(error => {
@@ -68,6 +69,32 @@ app.get('/testtable', (req, res) => {
         });
 });
 
+app.get('/inserttesttable' , (req, res) => {
+    // the url would look like this: http://localhost:3000/insert?date=2021-10-01&room=wc&roommate=piotrek&activity=umycie%20dupska
+
+    if(!req.query.date || !req.query.room || !req.query.roommate || !req.query.activity){
+        res.status(400).send('Bad Request');
+        return;
+    }
+    const date = req.query.date;
+    const room = req.query.room;
+    const roommate = req.query.roommate;
+    const activity = req.query.activity;
+
+    //print the ip of the client:
+    console.log(req.ip);
+
+    db.any('INSERT INTO "public"."testtable"("date", "room", "roommate", "activity") VALUES (\''+date+'\', \''+room+'\', \''+roommate+'\', \''+activity+'\')')
+        .then(data => {
+            res.json({status: 'ok'});
+        })
+        .catch(error => {
+            console.error(error);
+            res.status(500).send('Internal Server Error');
+        });
+
+
+})
 
 // Start the server
 const PORT = process.env.PORT || 3000;

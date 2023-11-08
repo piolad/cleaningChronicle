@@ -1,2104 +1,612 @@
 {
   "data": [
     {
-      "entryid": 2481,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1606,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2691,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2306,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2656,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2341,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2621,
+      "date_f": "2023-10-31",
+      "entryid": 3804,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Mokrzyk",
       "room": "Kuchnia",
-      "activity": "Mopowanie"
+      "activity": "Zajęcie się mamą Mokrzyka"
     },
     {
-      "entryid": 2376,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2586,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2411,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3321,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2551,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2446,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1641,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2516,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2271,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3286,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1676,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1431,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1711,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3461,
+      "date_f": "2023-10-31",
+      "entryid": 3570,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Mokrzyk",
       "room": "Kuchnia",
-      "activity": "Zamiatanie"
+      "activity": "Umycie stołu"
     },
     {
-      "entryid": 3251,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1746,
+      "date_f": "2023-10-31",
+      "entryid": 3609,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Pawel",
       "room": "Salon",
-      "activity": "Zamiatanie"
+      "activity": "Zajęcie się mamą Mokrzyka"
     },
     {
-      "entryid": 1501,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3216,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1781,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3181,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1816,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3146,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1851,
+      "date_f": "2023-10-31",
+      "entryid": 3765,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Mokrzyk",
-      "room": "Kuchnia",
+      "room": "Korytarz",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 3111,
+      "date_f": "2023-10-31",
+      "entryid": 3726,
+      "date": "2023-10-30T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Korytarz",
+      "activity": "Mopowanie"
+    },
+    {
+      "date_f": "2023-10-31",
+      "entryid": 3531,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
+      "room": "inne",
+      "activity": "Mopowanie"
     },
     {
-      "entryid": 1886,
+      "date_f": "2023-10-31",
+      "entryid": 3687,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Piotrullo",
-      "room": "Kibelson",
+      "room": "Łazienka",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 3426,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3076,
+      "date_f": "2023-10-31",
+      "entryid": 3648,
       "date": "2023-10-30T23:00:00.000Z",
       "roommate": "Mokrzyk",
-      "room": "Kuchnia",
+      "room": "inne",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 1921,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1536,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3041,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1956,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3006,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1991,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3496,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2971,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2026,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2936,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2061,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3391,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2901,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2096,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1571,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2866,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2131,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2831,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2166,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1466,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2796,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2201,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2761,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2236,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3356,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2726,
-      "date": "2023-10-30T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2902,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2272,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1852,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3427,
+      "date_f": "2023-11-01",
+      "entryid": 3649,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Mopowanie"
+      "room": "Łazienka",
+      "activity": "Umycie stołu"
     },
     {
-      "entryid": 2657,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2797,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2307,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1607,
+      "date_f": "2023-11-01",
+      "entryid": 3610,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
+      "room": "Łazienka",
+      "activity": "Umycie stołu"
     },
     {
-      "entryid": 3077,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2622,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2062,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2342,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1467,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1887,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2587,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3357,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2377,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3322,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2167,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2552,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3042,
+      "date_f": "2023-11-01",
+      "entryid": 3805,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Mokrzyk",
       "room": "Salon",
       "activity": "Zamiatanie"
     },
     {
-      "entryid": 2412,
+      "date_f": "2023-11-01",
+      "entryid": 3766,
+      "date": "2023-10-31T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Łazienka",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-01",
+      "entryid": 3727,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
+      "room": "inne",
+      "activity": "Umycie stołu"
     },
     {
-      "entryid": 2867,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1922,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2517,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2237,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2447,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2097,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3007,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2482,
+      "date_f": "2023-11-01",
+      "entryid": 3571,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Piotrullo",
       "room": "Kibelson",
       "activity": "Zamiatanie"
     },
     {
-      "entryid": 2727,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1642,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1432,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3287,
+      "date_f": "2023-11-01",
+      "entryid": 3532,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Pawel",
       "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1957,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1537,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1677,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 3462,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2762,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3252,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2972,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1712,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2832,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1992,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3217,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2692,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1747,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2132,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2937,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3182,
+      "date_f": "2023-11-01",
+      "entryid": 3688,
       "date": "2023-10-31T23:00:00.000Z",
       "roommate": "Pawel",
       "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1572,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1782,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1502,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2027,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3147,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3392,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1817,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 3497,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2202,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3112,
-      "date": "2023-10-31T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3253,
+      "date_f": "2023-11-02",
+      "entryid": 3728,
       "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
+      "roommate": "Pawel",
+      "room": "inne",
+      "activity": "Zajęcie się mamą Mokrzyka"
     },
     {
-      "entryid": 1433,
+      "date_f": "2023-11-02",
+      "entryid": 3533,
       "date": "2023-11-01T23:00:00.000Z",
       "roommate": "Piotrullo",
       "room": "Kuchnia",
-      "activity": "Odkurzanie"
+      "activity": "Zamiatanie"
     },
     {
-      "entryid": 1468,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1503,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1538,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1573,
+      "date_f": "2023-11-02",
+      "entryid": 3572,
       "date": "2023-11-01T23:00:00.000Z",
       "roommate": "Mokrzyk",
       "room": "Kuchnia",
-      "activity": "Odkurzanie"
+      "activity": "Zajęcie się mamą Mokrzyka"
     },
     {
-      "entryid": 1608,
+      "date_f": "2023-11-02",
+      "entryid": 3611,
       "date": "2023-11-01T23:00:00.000Z",
       "roommate": "Piotrullo",
+      "room": "Korytarz",
+      "activity": "Umycie stołu"
+    },
+    {
+      "date_f": "2023-11-02",
+      "entryid": 3650,
+      "date": "2023-11-01T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Korytarz",
+      "activity": "Zjedzenie ziemniaka"
+    },
+    {
+      "date_f": "2023-11-02",
+      "entryid": 3689,
+      "date": "2023-11-01T23:00:00.000Z",
+      "roommate": "Pawel",
       "room": "Kibelson",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 1643,
+      "date_f": "2023-11-02",
+      "entryid": 3767,
       "date": "2023-11-01T23:00:00.000Z",
       "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1678,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
+      "room": "Łazienka",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 1713,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1748,
+      "date_f": "2023-11-02",
+      "entryid": 3806,
       "date": "2023-11-01T23:00:00.000Z",
       "roommate": "Pawel",
       "room": "Kuchnia",
-      "activity": "Zamiatanie"
+      "activity": "Zjedzenie ziemniaka"
     },
     {
-      "entryid": 1783,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1818,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1853,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1888,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1923,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1958,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1993,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2028,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2063,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2098,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2133,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2168,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2203,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2238,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2273,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2308,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2343,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2378,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2413,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2448,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2483,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2518,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2553,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2588,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2623,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2658,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2693,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2728,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2763,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2798,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2833,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2868,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2903,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2938,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2973,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3008,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3043,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3078,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3113,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3148,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3183,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3218,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3288,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3323,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3358,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3393,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3428,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3463,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3498,
-      "date": "2023-11-01T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2064,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2694,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2239,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3359,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2729,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2204,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2764,
+      "date_f": "2023-11-03",
+      "entryid": 3612,
       "date": "2023-11-02T23:00:00.000Z",
       "roommate": "Piotrullo",
       "room": "Kibelson",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 2169,
+      "date_f": "2023-11-03",
+      "entryid": 3807,
       "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
+      "roommate": "Piotrullo",
+      "room": "Kibelson",
+      "activity": "Zajęcie się mamą Mokrzyka"
     },
     {
-      "entryid": 2799,
+      "date_f": "2023-11-03",
+      "entryid": 3534,
       "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
+      "roommate": "Pawel",
       "room": "Salon",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 2134,
+      "date_f": "2023-11-03",
+      "entryid": 3768,
       "date": "2023-11-02T23:00:00.000Z",
       "roommate": "Mokrzyk",
       "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1539,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2834,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2099,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 1434,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2869,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2274,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3394,
+      "date_f": "2023-11-03",
+      "entryid": 3651,
       "date": "2023-11-02T23:00:00.000Z",
       "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2904,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2029,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2939,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1994,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2974,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1959,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1504,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3009,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1924,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3044,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1889,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3429,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3079,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1854,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3114,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1819,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3149,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1784,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1469,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3184,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1749,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3499,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3219,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
       "room": "Kuchnia",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 1714,
+      "date_f": "2023-11-03",
+      "entryid": 3573,
       "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
+      "roommate": "Mokrzyk",
       "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
+      "activity": "Zamiatanie"
     },
     {
-      "entryid": 1679,
+      "date_f": "2023-11-03",
+      "entryid": 3729,
       "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
+      "roommate": "Mokrzyk",
+      "room": "Korytarz",
+      "activity": "Zamiatanie"
     },
     {
-      "entryid": 3254,
+      "date_f": "2023-11-03",
+      "entryid": 3690,
       "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
+      "roommate": "Mokrzyk",
+      "room": "inne",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 1644,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3464,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3289,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
+      "date_f": "2023-11-04",
+      "entryid": 3613,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "inne",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 1609,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-04",
+      "entryid": 3808,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kuchnia",
+      "activity": "Odkurzanie"
+    },
+    {
+      "date_f": "2023-11-04",
+      "entryid": 3652,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Salon",
+      "activity": "Zjedzenie ziemniaka"
+    },
+    {
+      "date_f": "2023-11-04",
+      "entryid": 3691,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kuchnia",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-04",
+      "entryid": 3535,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Salon",
+      "activity": "Zjedzenie ziemniaka"
+    },
+    {
+      "date_f": "2023-11-04",
+      "entryid": 3769,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Salon",
+      "activity": "Umycie stołu"
+    },
+    {
+      "date_f": "2023-11-04",
+      "entryid": 3730,
+      "date": "2023-11-03T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kibelson",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-04",
+      "entryid": 3574,
+      "date": "2023-11-03T23:00:00.000Z",
       "roommate": "Pawel",
       "room": "Kibelson",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-05",
+      "entryid": 3575,
+      "date": "2023-11-04T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kibelson",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-05",
+      "entryid": 3653,
+      "date": "2023-11-04T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Korytarz",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 2484,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-05",
+      "entryid": 3692,
+      "date": "2023-11-04T23:00:00.000Z",
       "roommate": "Mokrzyk",
-      "room": "Salon",
+      "room": "Kibelson",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-05",
+      "entryid": 3731,
+      "date": "2023-11-04T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "inne",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 2449,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2519,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-05",
+      "entryid": 3536,
+      "date": "2023-11-04T23:00:00.000Z",
       "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
+      "room": "Łazienka",
+      "activity": "Odkurzanie"
     },
     {
-      "entryid": 2414,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-05",
+      "entryid": 3770,
+      "date": "2023-11-04T23:00:00.000Z",
       "roommate": "Pawel",
       "room": "Kibelson",
-      "activity": "Odkurzanie"
+      "activity": "Zjedzenie ziemniaka"
     },
     {
-      "entryid": 3324,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2554,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2379,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2589,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2344,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-05",
+      "entryid": 3809,
+      "date": "2023-11-04T23:00:00.000Z",
       "roommate": "Mokrzyk",
-      "room": "Salon",
+      "room": "Kuchnia",
       "activity": "Zamiatanie"
     },
     {
-      "entryid": 2624,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
+      "date_f": "2023-11-05",
+      "entryid": 3614,
+      "date": "2023-11-04T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kibelson",
+      "activity": "Zamiatanie"
     },
     {
-      "entryid": 2309,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-06",
+      "entryid": 3810,
+      "date": "2023-11-05T23:00:00.000Z",
       "roommate": "Piotrullo",
-      "room": "Salon",
+      "room": "Kuchnia",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-06",
+      "entryid": 3693,
+      "date": "2023-11-05T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Łazienka",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-06",
+      "entryid": 3537,
+      "date": "2023-11-05T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Łazienka",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 1574,
-      "date": "2023-11-02T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
+      "date_f": "2023-11-06",
+      "entryid": 3615,
+      "date": "2023-11-05T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Korytarz",
+      "activity": "Umycie stołu"
+    },
+    {
+      "date_f": "2023-11-06",
+      "entryid": 3771,
+      "date": "2023-11-05T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "inne",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 2659,
-      "date": "2023-11-02T23:00:00.000Z",
+      "date_f": "2023-11-06",
+      "entryid": 3576,
+      "date": "2023-11-05T23:00:00.000Z",
       "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
+      "room": "Korytarz",
+      "activity": "Umycie stołu"
     },
     {
-      "entryid": 1610,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2240,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1435,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 1820,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2695,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3430,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2205,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2450,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 3115,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2730,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2345,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2170,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3360,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1785,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2765,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1470,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2135,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1540,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3325,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2800,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3150,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2100,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2485,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1750,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2835,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2625,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2065,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2415,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3185,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2870,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3465,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 2030,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1715,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2590,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2905,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 2520,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1995,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3395,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 3220,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2940,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2660,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1960,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 1505,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1680,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 2975,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2380,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Odkurzanie"
-    },
-    {
-      "entryid": 1925,
-      "date": "2023-11-03T23:00:00.000Z",
+      "date_f": "2023-11-06",
+      "entryid": 3732,
+      "date": "2023-11-05T23:00:00.000Z",
       "roommate": "Piotrullo",
       "room": "Salon",
       "activity": "Mopowanie"
     },
     {
-      "entryid": 2310,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Piotrullo",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3255,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kibelson",
+      "date_f": "2023-11-06",
+      "entryid": 3654,
+      "date": "2023-11-05T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Korytarz",
       "activity": "Zamiatanie"
     },
     {
-      "entryid": 3010,
-      "date": "2023-11-03T23:00:00.000Z",
+      "date_f": "2023-11-07",
+      "entryid": 3655,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Pawel",
+      "room": "Łazienka",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3577,
+      "date": "2023-11-06T23:00:00.000Z",
       "roommate": "Piotrullo",
+      "room": "Łazienka",
+      "activity": "Umycie stołu"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3616,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Pawel",
+      "room": "Korytarz",
+      "activity": "Zjedzenie ziemniaka"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3811,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kuchnia",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3694,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Salon",
+      "activity": "Zjedzenie ziemniaka"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3733,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "inne",
+      "activity": "Umycie stołu"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3538,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Salon",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-07",
+      "entryid": 3772,
+      "date": "2023-11-06T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "inne",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3773,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "Pawel",
       "room": "Salon",
       "activity": "Zamiatanie"
     },
     {
-      "entryid": 1645,
-      "date": "2023-11-03T23:00:00.000Z",
+      "date_f": "2023-11-08",
+      "entryid": 3578,
+      "date": "2023-11-07T23:00:00.000Z",
       "roommate": "Pawel",
-      "room": "Kibelson",
-      "activity": "Wycieranie kurzy"
+      "room": "Kuchnia",
+      "activity": "Umycie stołu"
     },
     {
-      "entryid": 1890,
-      "date": "2023-11-03T23:00:00.000Z",
+      "date_f": "2023-11-08",
+      "entryid": 3734,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "Mokrzyk",
+      "room": "Kibelson",
+      "activity": "Zajęcie się mamą Mokrzyka"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3812,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "Piotrullo",
+      "room": "Kibelson",
+      "activity": "Mopowanie"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3815,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "piotrek",
+      "room": "kibelson",
+      "activity": "umycie dupska1"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3656,
+      "date": "2023-11-07T23:00:00.000Z",
       "roommate": "Pawel",
+      "room": "Korytarz",
+      "activity": "Zamiatanie"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3617,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "Piotrullo",
       "room": "Salon",
       "activity": "Odkurzanie"
     },
     {
-      "entryid": 3500,
-      "date": "2023-11-03T23:00:00.000Z",
+      "date_f": "2023-11-08",
+      "entryid": 3814,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "piotrek",
+      "room": "kibelson",
+      "activity": "umycie dupska"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3813,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "piotrek",
+      "room": "wc",
+      "activity": "umycie dupska"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3816,
+      "date": "2023-11-07T23:00:00.000Z",
+      "roommate": "piotrek",
+      "room": "kibelson",
+      "activity": "test"
+    },
+    {
+      "date_f": "2023-11-08",
+      "entryid": 3695,
+      "date": "2023-11-07T23:00:00.000Z",
       "roommate": "Mokrzyk",
       "room": "Kibelson",
-      "activity": "Mopowanie"
+      "activity": "Zajęcie się mamą Mokrzyka"
     },
     {
-      "entryid": 1575,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Kibelson",
-      "activity": "Mopowanie"
-    },
-    {
-      "entryid": 3045,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2555,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Mokrzyk",
-      "room": "Salon",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 1855,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Kuchnia",
-      "activity": "Zamiatanie"
-    },
-    {
-      "entryid": 2275,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3290,
-      "date": "2023-11-03T23:00:00.000Z",
-      "roommate": "Pawel",
-      "room": "Salon",
-      "activity": "Wycieranie kurzy"
-    },
-    {
-      "entryid": 3080,
-      "date": "2023-11-03T23:00:00.000Z",
+      "date_f": "2023-11-08",
+      "entryid": 3539,
+      "date": "2023-11-07T23:00:00.000Z",
       "roommate": "Piotrullo",
-      "room": "Kuchnia",
-      "activity": "Wycieranie kurzy"
+      "room": "Salon",
+      "activity": "Zajęcie się mamą Mokrzyka"
     }
   ]
 }

@@ -26,48 +26,36 @@ function convertRoomNameToPl(roomName){
 function groupDataByDate(data){
     var groupedData = {};
     for (const [key, value] of Object.entries(data.data)) {
-        if(!groupedData[value.date]){
-            groupedData[value.date] = {};
+        if(!groupedData[value.date_f]){
+            groupedData[value.date_f] = {};
         }
-        if(!groupedData[value.date][convertRoomNameToEng(value.room)]){
-            groupedData[value.date][convertRoomNameToEng(value.room)] = [];
+        if(!groupedData[value.date_f][convertRoomNameToEng(value.room)]){
+            groupedData[value.date_f][convertRoomNameToEng(value.room)] = [];
+        }
+        if(!groupedData[value.date_f][convertRoomNameToEng(value.room)][key] ){
+            groupedData[value.date_f][convertRoomNameToEng(value.room)][key] = [];
         }
         
         //append els to array
-        groupedData[value.date][convertRoomNameToEng(value.room)].push(value);
+        groupedData[value.date_f][convertRoomNameToEng(value.room)][key].push(value);
         
     }
     return groupedData;
 }
 
-// const data = {
-//     "data":
-//     [
-//     {
-//         date: new Date(2021, 9, 1),
-//         kitchen: [
-//             {cleaner: "Mokrzyk", task: "Mycie mikrofalówki"},
-//             {cleaner: "Paweł", task: "Zjedzenie ziemniaka"}
-//         ],
-//         bathroom: [
-//             {cleaner: "Piotrek", task: "Umycie dupska"}
-//         ],
-//     },
-//     {
-//         date: new Date(2021, 9, 2),
-//         corridor: [
-//             {cleaner: "Piotrek", task: "Ścieranie kurzu"},
-//             {cleaner: "Paweł", task: "Zajęcie się Mamą mokrzyka"}
-//         ],
-//         bathroom: [
-//             {cleaner: "Piotrek", task: "Umycie dupska"}
-//         ],
-//     }
+function getDaysInMonth(month, year) {
+    const today = new Date();
+    const date = new Date(year, month, 1);
+    const days = [];
+    while (date.getMonth() === month && date.getDate() <= (today.getDate()+1)) {
+        days.push(new Date(date));
+        date.setDate(date.getDate() + 1);
+    }
+    return days;
+}
 
-// ]
-// }
 function MonthlyView() {
-    const [data, setData] = useState({ data: [] });
+    const [data, setData] = useState({ data: {} });
 
     useEffect(() => {
         const fetchData = async () => {
@@ -76,16 +64,19 @@ function MonthlyView() {
             setData( groupDataByDate(body) );
         };
         fetchData();
-    }
-        , []);
+    }, []);
+
+    const today = new Date();
+    const daysInMonth = getDaysInMonth(today.getMonth(), today.getFullYear());
+
+    console.log(data);
 
     //iteratively convert data to daily views
     var dailyViews = [];
-    for (const [key, value] of Object.entries(data)) {
-        console.log(key)
-        dailyViews.push(<DailyView date={key} cleaningData={value} />);
-        // dailyViews.push(<p>{value.date.toString()}</p>)
-        // console.log(value.date)
+    for (const day of daysInMonth) {
+        const date = day.toISOString().split('T')[0];
+        const cleaningData = data[date] || {};
+        dailyViews.push(<DailyView date={date} cleaningData={cleaningData} />);
     }
 
     return (
@@ -99,27 +90,3 @@ function MonthlyView() {
 }
 
 export default MonthlyView;
-
-
-
-
-
-// function MonthlyView(){
-
-//     //iteratively convert data to daily views
-//     var dailyViews = []
-//     for (const [key, value] of Object.entries(data.data)) {
-//         dailyViews.push(<DailyView date={value.date} cleaningData={value}/>)
-//     }
-
-//     return(
-//         <div>
-//             {dailyViews}
-
-//         {/*  to consider:
-//             <AddTaskButton></AddTaskButton> */}
-//         </div>
-//     )
-// }
-
-// export default MonthlyView;
