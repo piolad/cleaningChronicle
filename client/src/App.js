@@ -17,7 +17,7 @@ function App() {
       <MonthSelector month={month} setMonth={setMonth}></MonthSelector>
 
       <div>
-        <MonthlyView ></MonthlyView>
+        <MonthlyView month={month} ></MonthlyView>
       </div>
     </div>
   )
