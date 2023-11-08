@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "date": "2021-09-01",
+      "kitchen": [
+        { "cleaner": "Mokrzyk", "task": "Mycie mikrofalówki" },
+        { "cleaner": "Paweł", "task": "Zjedzenie ziemniaka" }
+      ],
+      "bathroom": [{ "cleaner": "Piotrek", "task": "Umycie dupska" }]
+    },
+    {
+      "date": "2021-10-02T00:00:00.000Z",
+      "corridor": [
+        { "cleaner": "Piotrek", "task": "Ścieranie kurzu" },
+        { "cleaner": "Paweł", "task": "Zajęcie się Mamą mokrzyka" }
+      ],
+      "bathroom": [{ "cleaner": "Piotrek", "task": "Umycie dupska" }]
+    }
+  ]
+}

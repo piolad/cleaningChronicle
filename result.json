@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "date": "2021-09-01",
+        "kitchen": [
+          { "cleaner": "Mokrzyk", "activity": "Mycie mikrofalówki", "entryid": 2481 },
+          { "cleaner": "Paweł", "activity": "Zjedzenie ziemniaka", "entryid": 2481 }
+        ],
+        "bathroom": [{ "cleaner": "Piotrek", "activity": "Umycie dupska", "entryid": 2481 }]
+      },
+      {
+        "date": "2021-10-02T00:00:00.000Z",
+        "corridor": [
+          { "cleaner": "Piotrek", "activity": "Ścieranie kurzu", "entryid": 2481 },
+          { "cleaner": "Paweł", "activity": "Zajęcie się Mamą mokrzyka", "entryid": 2481 }
+        ],
+        "bathroom": [{ "cleaner": "Piotrek", "activity": "Umycie dupska", "entryid": 2481 }]
+      }
+    ]
+  }
+  

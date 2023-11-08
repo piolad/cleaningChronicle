@@ -15,32 +15,32 @@ function DailyView({cleaningData, date}){
 
         if(key === "kitchen"){
             for (const [key, value] of Object.entries(cleaningData.kitchen)) {
-                kitchenTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+                kitchenTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)
             }
         }
         if(key === "bathroom"){
             for (const [key, value] of Object.entries(cleaningData.bathroom)) {
-                bathroomTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+                bathroomTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)
             }
         }
         if(key === "wc"){
             for (const [key, value] of Object.entries(cleaningData.wc)) {
-                wcTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+                wcTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)
             }
         }
         if(key === "corridor"){
             for (const [key, value] of Object.entries(cleaningData.corridor)) {
-                corridorTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+                corridorTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)
             }
         }
         if(key === "livingroom"){
             for (const [key, value] of Object.entries(cleaningData.livingroom)) {
-                livingroomTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+                livingroomTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)
             }
         }
         if(key === "other"){
             for (const [key, value] of Object.entries(cleaningData.other)) {
-                otherTasks.push(<TaskElement cleaner={value.cleaner} task={value.task}></TaskElement>)
+                otherTasks.push(<TaskElement cleaner={value.roommate} task={value.activity}></TaskElement>)
             }
         }
       }
@@ -49,7 +49,7 @@ function DailyView({cleaningData, date}){
     return(
     <div className='dailyView'>
       
-          <h2>{(date.getDate()) +'/' + (date.getMonth()+1)}</h2>
+          <h2>{(new Date(date)).getDate() +'/' + ( new Date(date).getMonth()+1) }</h2>
           <div class="container">
             <div class="kitchen">
               <h3>Kuchnia</h3>
